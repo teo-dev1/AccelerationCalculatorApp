@@ -1,0 +1,17 @@
+<resources>
+    <string-array name="sesso_options">
+        <item>Maschio</item>
+        <item>Femmina</item>
+        <item>Altro</item>
+    </string-array>
+
+    <string name="app_name">PunchSpeedCalculator</string>
+    <string name="home1">LATEST ACCELERATION RECORDS</string>
+    <string name="record">RECORD</string>
+    <string name="no_recording">STOP</string>
+    <string name="email">E-MAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="still_not_registered">Non sei ancora registrato?</string>
+    <string name="create_profile"><u>Crea profilo</u></string>
+
+</resources>
