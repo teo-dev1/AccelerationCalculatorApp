@@ -11,7 +11,8 @@ data class User(
    val dateOfBirth: Date=Date(),
    val sex:String="",
    val height:String="",
-   val weight:String=""
+   val weight:String="",
+   val foo:String=""
 )
 
 
